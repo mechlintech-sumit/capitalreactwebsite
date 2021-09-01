@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/capitalreactwebsite/static/css/main.8b880731.chunk.css",
+    "main.js": "/capitalreactwebsite/static/js/main.abc3ae31.chunk.js",
+    "main.js.map": "/capitalreactwebsite/static/js/main.abc3ae31.chunk.js.map",
+    "runtime-main.js": "/capitalreactwebsite/static/js/runtime-main.958c10c6.js",
+    "runtime-main.js.map": "/capitalreactwebsite/static/js/runtime-main.958c10c6.js.map",
+    "static/js/2.a3cb87d9.chunk.js": "/capitalreactwebsite/static/js/2.a3cb87d9.chunk.js",
+    "static/js/2.a3cb87d9.chunk.js.map": "/capitalreactwebsite/static/js/2.a3cb87d9.chunk.js.map",
+    "static/js/3.1bd91494.chunk.js": "/capitalreactwebsite/static/js/3.1bd91494.chunk.js",
+    "static/js/3.1bd91494.chunk.js.map": "/capitalreactwebsite/static/js/3.1bd91494.chunk.js.map",
+    "index.html": "/capitalreactwebsite/index.html",
+    "static/css/main.8b880731.chunk.css.map": "/capitalreactwebsite/static/css/main.8b880731.chunk.css.map",
+    "static/js/2.a3cb87d9.chunk.js.LICENSE.txt": "/capitalreactwebsite/static/js/2.a3cb87d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.958c10c6.js",
+    "static/js/2.a3cb87d9.chunk.js",
+    "static/css/main.8b880731.chunk.css",
+    "static/js/main.abc3ae31.chunk.js"
+  ]
+}
